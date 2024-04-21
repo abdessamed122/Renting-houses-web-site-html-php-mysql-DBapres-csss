@@ -1,0 +1,9 @@
+Property Rental Management System:
+
+Admin Interface: Manage rental properties, view all listings, add, edit, and delete properties.
+
+Landlord Interface: List rental properties, manage tenant applications.
+
+Tenant Interface: Search for rental properties, submit rental applications, pay rent online.
+
+Database Tables: Properties, Tenants, Landlords
